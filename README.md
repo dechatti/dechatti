@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dechatti
+- 👋 Hi, I’m @Adedeji
 - 👀 I’m interested in the .Net Framework anlongside C#
 - 🌱 .Net Fullstack Web development
 - 📫 How to reach me dejibabatunde074@gmail.com
